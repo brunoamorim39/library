@@ -1,0 +1,1 @@
+The goal of this project is to explore basic data storage through the implementation of a small library app.

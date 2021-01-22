@@ -9,7 +9,7 @@
 }
 
 .book-mod {
-    margin: 30px;
+    margin: 10px;
     padding: 10px;
     border: none;
 }
@@ -17,4 +17,10 @@
 .library {
     text-align: center;
     margin: 10px;
+}
+
+.button-finalize {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
